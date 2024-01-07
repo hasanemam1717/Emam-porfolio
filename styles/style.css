@@ -117,11 +117,42 @@ font-weight: 700;
     text-align: left;
     font-size: 18px;
     font-weight: 400;}
-
-
-
-
-
+.my-resume{ display: flex;
+    margin: 54px;
+    margin-left: 407px;
+    gap: 44px;
+    }
+.summary{
+    margin-top: 877px;
+    text-align: center;
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+.my-resume h1{}
+.my-resume div{}
+.resume-clomun{}
+.resume-clomun-title{}
+.resume-clomun-title p h2{color:  #474747;
+    font-size: 25px;
+    font-weight: 700;}
+.resume-clomun-title h3{}
+.resume-clomun-title h4{color: #757575;
+    font-size: 20px;
+    font-weight: 600;}
+.resume-clomun-title h5{color: var(--Dark-03, #757575);
+    font-size: 16px;
+    font-weight: 400;}
+ #btn{color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    background: #FD6E0A;
+    border: 0;
+    padding: 15px 30px 14px 30px;
+    border-radius: 3px;
+    margin-left: 50%;
+ }   
 
 
 
