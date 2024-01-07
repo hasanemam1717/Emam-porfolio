@@ -152,13 +152,32 @@ font-weight: 700;
     padding: 15px 30px 14px 30px;
     border-radius: 3px;
     margin-left: 50%;
- }   
-
-
-
-
-
-
+ }
+ footer{   display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    background: #FFF8F3;}   
+.last-content{width: 35%;}
+.last-content h1{color:#181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;}
+.last-content h2{color:#474747;
+    font-size: 16px;
+    font-weight: 400;}
+.social-link{}
+.social-link img{}
+.last-massage{width: 35%;
+}
+.last-massage h1{}
+.last-massage form{}
+.last-massage form input{       border-radius: 5px;
+    background: #FFF;
+    border: none;
+    padding: 23px;
+    margin: 10px;
+    width: 50%;}
+.massage{height: 80px;}
 
 
 
